@@ -9,8 +9,7 @@ I developed this application, using Flutter and REST API, which seamlessly integ
 
 ## Demo
 
-![flutter-mvvm-demo (2)](https://github.com/tasaddaq-hussain/flutter-app-with-rest-api-s-integration/assets/65818733/73e56329-1444-42a6-84e1-97467891c126)
-
+![video_20240426_175443_edit-ezgif com-video-to-gif-converter (1)](https://github.com/tasaddaq-hussain/flutter-app-with-rest-apis-integration/assets/65818733/8447bcf5-f178-4760-86f7-224f15c3aad6)
 
 ## Installation
 
